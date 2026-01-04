@@ -12,7 +12,7 @@
 </head>
 <body>
     <H1 style="color: white;">Ao amor da minha vida...</H1>
-    <img src="https://drive.google.com/file/d/1k5mQl7ATICb3mMMBH71nFUz9xU8exJgm/view?usp=drive_link" alt="imagem do meu amor">
+    <img src="http://github.com/LazaroXimenes/meu.amor/blob/16acdf193447d793996f21e96b58f05f0d44abf5/para%20o%20amor%20da%20minha%20vida/Captura%20de%20tela%202026-01-04%20004709.png" alt="imagem do meu amor">
     <p style="color: white;">São esses seus olhinhos que me apaixonaram, e me fazem apaixonar todos os dias, <strong>te amo minha vida</strong></p>
     😍
     <p style="color: white;"><strong>esse é o ano da nossa construção, rumo a nossa família...</strong></p>
